@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer from Turkey</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihdemirbas" alt="salihdemirbas" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihdemirbas" alt="salihdemirbas" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React etc.**
 
