@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salih</h1>
 <h3 align="center">A Software Developer from Turkey</h3>
 
-<div align="center"><img src="https://giphy.com/gifs/hello-hi-wave-xT9IgG50Fb7Mi0prBC" width="280" height="230"  /> </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihdemirbas" alt="salihdemirbas" /></a> </p>
 
