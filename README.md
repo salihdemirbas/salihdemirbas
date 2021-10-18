@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React etc.**
 
+- 👀 I’m looking for a Front-end position
 
 - 📫 How to reach me **salihdemirbs@gmail.com**
 
