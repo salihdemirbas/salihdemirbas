@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, React etc.**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, React, Java, Selenium etc.**
 
 - 👀 I’m looking for a Front-end or Test Engineer position as Junior.
 
