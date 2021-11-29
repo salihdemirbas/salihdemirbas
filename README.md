@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, React, Java, Selenium etc.**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Java, Selenium etc.**
 
-- 👀 I’m looking for a Front-end or Test Engineer position as Junior.
+- 👀 I’m working at Testinium as Assistant Software Test Specialist..
 
 - 📫 How to reach me **salihdemirbs@gmail.com**
 
