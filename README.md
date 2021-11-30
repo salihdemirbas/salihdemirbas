@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Java, Selenium etc.**
+- 🌱 I’m currently learning **Java, Selenium, Appium etc.**
 
 - 👀 I’m working as Assistant Software Test Specialist.
 
