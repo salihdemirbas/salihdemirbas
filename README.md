@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Selenium, Appium, Gauge etc.**
 
-- 👀 I’m working as Assistant Software Test Specialist.
+- 👀 I’m working as QA.
 
 - 📫 How to reach me **salihdemirbs@gmail.com**
 
